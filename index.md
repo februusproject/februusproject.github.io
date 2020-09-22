@@ -34,6 +34,9 @@ Overview of the **Februus System**. The Trojaned input is processed through the 
 
 7. We contribute to the discourse in the discipline by releasing our Trojan model zoo---ten Trojan networks with five different naturalistic Trojan triggers. Code release and project artifacts are available from the Github repo.
 
+*Github Link:*
+[![Github link](./images/GitHub-Mark-64px.png)](https://github.com/AdelaideAuto-IDLab/Februus)
+
 
 If you find our work useful for your work. Please kindly cite our work as: 
 ```
