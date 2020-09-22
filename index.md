@@ -38,14 +38,17 @@ Overview of the **Februus System**. The Trojaned input is processed through the 
 
 
 If you find our work useful for your work. Please kindly cite our work as: 
+
 ```
-@misc{doan2019februus,
-    title={Februus: Input Purification Defense Against Trojan Attacks on Deep Neural Network Systems},
-    author={Bao Gia Doan and Ehsan Abbasnejad and Damith C. Ranasinghe},
-    year={2019},
-    eprint={1908.03369},
-    archivePrefix={arXiv},
-    primaryClass={cs.CR}
+@inproceedings{doan2020februus,
+title={Februus: Input Purification Defense Against Trojan Attacks on Deep Neural Network Systems},
+author={Bao Gia Doan and Ehsan Abbasnejad and Damith C. Ranasinghe},
+year = {2020},
+publisher = {Association for Computing Machinery},
+booktitle = {Proceedings of the 36nd Annual Computer Security Applications Conference (ACSAC)},
+address = {New York, NY, USA},
+url = {https://arxiv.org/abs/1908.03369},
+location = {Austin, TX, USA},
+series = {ACSAC 2020}
 }
 ```
-
