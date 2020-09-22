@@ -32,4 +32,4 @@ Overview of the **Februus System**. The Trojaned input is processed through the 
 
 6. Significantly, we provide the first result for a defense against partial backdoor attacks: ***i)*** we implement and demonstrate resilience to the stealthy advanced Trojan attack---*Partial Backdoor Attack*---capable of evading state-of-the-art defense methods; and ***ii)*** we implement the adaptive attack, multiple triggers to multiple targets attack, shown to be able to fool other state-of-the-art defense methods and demonstrate the resilience of Februus to this evasive attack.
 
-We contribute to the discourse in the discipline by releasing our Trojan model zoo---ten Trojan networks with five different naturalistic Trojan triggers. Code release and project artifacts are available from the Github repo.
+7. We contribute to the discourse in the discipline by releasing our Trojan model zoo---ten Trojan networks with five different naturalistic Trojan triggers. Code release and project artifacts are available from the Github repo.
