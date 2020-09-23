@@ -36,18 +36,16 @@ Overview of the **Februus System**. The Trojaned input is processed through the 
 
 *Github Link:* [![Github link](./images/GitHub-Mark-64px.png)](https://github.com/AdelaideAuto-IDLab/Februus)
 
+Archived Version: [Februus](https://arxiv.org/abs/1908.03369)
 
-If you find our work useful for your work. Please kindly cite our work as: 
+Februus is an open source project that proposes, for the first time, the concept of sanitising inputs to deep neural network systems to provide a run time defence against Trojan attacks. The project is published as part of the following paper and if you re-use our work, please cite the following paper:
 
 ```
 @inproceedings{doan2020februus,
 title={Februus: Input Purification Defense Against Trojan Attacks on Deep Neural Network Systems},
 author={Bao Gia Doan and Ehsan Abbasnejad and Damith C. Ranasinghe},
 year = {2020},
-publisher = {Association for Computing Machinery},
 booktitle = {Proceedings of the 36th Annual Computer Security Applications Conference (ACSAC)},
-address = {New York, NY, USA},
-url = {https://arxiv.org/abs/1908.03369},
 location = {Austin, TX, USA},
 series = {ACSAC 2020}
 }
