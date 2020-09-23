@@ -1,5 +1,3 @@
-
-
 # Trojan Attack Overview
 ![Trojan attack](./images/STOP.svg)
 <!--<img src="./images/STOP.png">-->
@@ -16,6 +14,21 @@ Overview of the **Februus System**. The Trojaned input is processed through the 
 ***The methods devised can successfully apply the notion of input sanitization realized in an unsupervised setting to the visual inputs of a deep neural network system. This is indeed a new finding.***
 
 ***Most interestingly, and perhaps for the first time, we show that deep perception models are able to achieve state-of-the-art performance post our proposed input sanitization method (that removes parts of an image and restores it prior to classification).***
+
+
+Februus is an open source project that proposes, for the first time, the concept of sanitising inputs to deep neural network systems to provide a run time defence against Trojan attacks. The project is published as part of the following paper and if you re-use our work, please cite the following paper:
+
+```
+@inproceedings{doan2020februus,
+title={Februus: Input Purification Defense Against Trojan Attacks on Deep Neural Network Systems},
+author={Bao Gia Doan and Ehsan Abbasnejad and Damith C. Ranasinghe},
+year = {2020},
+booktitle = {Proceedings of the 36th Annual Computer Security Applications Conference (ACSAC)},
+location = {Austin, TX, USA},
+series = {ACSAC 2020}
+}
+```
+
 
 
 ## Contributions
@@ -38,15 +51,4 @@ Overview of the **Februus System**. The Trojaned input is processed through the 
 
 Archived Version: [Februus](https://arxiv.org/abs/1908.03369)
 
-Februus is an open source project that proposes, for the first time, the concept of sanitising inputs to deep neural network systems to provide a run time defence against Trojan attacks. The project is published as part of the following paper and if you re-use our work, please cite the following paper:
 
-```
-@inproceedings{doan2020februus,
-title={Februus: Input Purification Defense Against Trojan Attacks on Deep Neural Network Systems},
-author={Bao Gia Doan and Ehsan Abbasnejad and Damith C. Ranasinghe},
-year = {2020},
-booktitle = {Proceedings of the 36th Annual Computer Security Applications Conference (ACSAC)},
-location = {Austin, TX, USA},
-series = {ACSAC 2020}
-}
-```
